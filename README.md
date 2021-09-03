@@ -4,6 +4,10 @@ This repository contains the notebooks for the analysis, prediction and visualiz
 ## Introduction
 This repository contains the different developments or analyzes carried out by the working group (Team 86) to solve the need of the U - Mobile company, within the framework of the Data Science For All (DS4A) training process - Cohort 5
 
+The codes have been generated under the following work methodology:
+
+![Process](https://user-images.githubusercontent.com/12412106/131955451-7d2024ae-608f-4964-afa1-f9810a1ec1b3.jpg)
+
 ## Dataset
 The main data corresponds to passenger mobility data and vehicle dispatches from the authorized or approved land passenger terminals, available since August 2019 in the Colombian open data portal through the following link
 
