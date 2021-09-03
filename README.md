@@ -29,6 +29,10 @@ In this notebook you can find the predict model, one for each terminal. The mode
 
 File: Model_XGBoost_Terminal.ipynb
 
+The previous file contains the code generated to find the model of the 48 authorized or approved terminals, therefore a function is generated to update the model of a selected terminal, considering that changes in mobility are not homogeneous throughout the country.
+
+File: Function_XGBoost_Terminals.ipynb
+
 ## Front end
 This notebook contains the code for the display of the data in the dashboard built with Dash / Plotly
 
