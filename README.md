@@ -34,5 +34,4 @@ This notebook contains the code for the display of the data in the dashboard bui
 
 File
 
-
-
+![Dashboard](https://user-images.githubusercontent.com/12412106/131951460-c46f0ca0-ab9e-43ab-a006-4501c6411f0d.jpg)
