@@ -9,6 +9,7 @@ The codes have been generated under the following work methodology:
 
 ![Process](https://user-images.githubusercontent.com/12412106/131955451-7d2024ae-608f-4964-afa1-f9810a1ec1b3.jpg)
 
+Note: In the file requirements.txt are the different libraries used in notebooks and that are required for their execution
 
 ## Dataset
 The main data corresponds to passenger mobility data and vehicle dispatches from the authorized or approved land passenger terminals, available since August 2019 in the Colombian open data portal through the following link
@@ -48,6 +49,4 @@ This notebook contains the code for the display of the data in the dashboard bui
 
 File
 
-![Dashboard](https://user-images.githubusercontent.com/12412106/131951460-c46f0ca0-ab9e-43ab-a006-4501c6411f0d.jpg)
-
-Note: In the file requirements.txt are the different libraries used in notebooks and that are required for their execution
+![Dashboard](https://user-images.githubusercontent.com/12412106/132024705-a54b8b8f-116a-4d5b-888e-d79d708e0627.jpeg)
