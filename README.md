@@ -30,7 +30,7 @@ File: Data_Cleaning.ipynb
 ## Exploratory Data Analysis
 In this notebook you can find the diffrent analysis performed by the team for known the data and identify the features that have effect on the flow of passengers.
 
-File
+File: EDA_Code.ipynb
 
 
 ## Model predict
