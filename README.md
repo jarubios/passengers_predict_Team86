@@ -45,8 +45,8 @@ File: Function_XGBoost_Terminals.ipynb
 
 
 ## Front end
-This notebook contains the code for the display of the data in the dashboard built with Dash / Plotly
+This notebook contains the code for the display of the data in the dashboard built with Dash / Plotly. The asset and model folders must be in the same directory as the file with the .py extension
 
-File
+File: Front-end.rar
 
 ![Dashboard](https://user-images.githubusercontent.com/12412106/132024705-a54b8b8f-116a-4d5b-888e-d79d708e0627.jpeg)
